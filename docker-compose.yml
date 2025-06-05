@@ -65,4 +65,4 @@ services:
 
 networks:
   kastro-network:
-    driver: bridge
+    driver: overlay
